@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="login_screen_login_placeholder">login</string>
+    <string name="login_screen_password_placeholder">password</string>
+    <string name="login_screen_submit_button">Submit</string>
+    <string name="login_screen_error_user_empty">User empty</string>
+    <string name="login_screen_error_password_empty">Password empty</string>
+    <string name="login_screen_error_user_unautorized">Invalid authentication</string>
+    <string name="app_error_not_internet_connection">No internet connection</string>
+    <string name="welcome_screen_title">Welcome %1$s!</string>
+</resources>
